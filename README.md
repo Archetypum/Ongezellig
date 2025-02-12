@@ -9,7 +9,7 @@ Okay, simply...
 
 When i was more entertained to dig further in Ongezellig and was craving for more content, i got in problem that Ongezellig simply dont have any archive of official works. So if you wanted to dig further you would need to go on bunch of sites and find those googel discs, and lets be honest - this is not sort of satisfying quest. And probably im not the only one who got into this problem, it probably even harder for new people in Ongezellig community who need to repeat that quest.
 
-# Known Issues
+## Known Issues
 
 - In comics, pages is not sorted by numbers cause github is shit (probably wont fix cause i literally cant)
 - No Mayamail, will be added in future
@@ -17,23 +17,17 @@ When i was more entertained to dig further in Ongezellig and was craving for mor
 - No scenario of Ongezellig in Bonusmap, that .docx files are too big and im not even sure i can load them here.
 - Probably i forgot many more things for Ongezellig archive, you can always help me with Pull Requests
 
-# Authors
-
-Ongezellig Archive were created by Archetypum, with:
-
-- WretchOfLights as the lead developer and initial creator. (https://github.com/WretchOfLights)
-
-# Sources
+## Sources
 
 TODO: find all sources
 
-# License 
+## License 
 
-Ongezellig Archive uses Commons Attribution Share Alike 4.0 International license.
+_Ongezellig Archive_ uses **Creative Commons Attribution Share Alike 4.0 International** license.
 
 More information in:
 
-- LICENSE.md
-- https://creativecommons.org/
+- _LICENSE.md_
+- _https://creativecommons.org/_
 
 ![ongezellig-maya-3415542748](https://github.com/user-attachments/assets/f460fc76-e0a7-444a-92f0-82e8bffdacbb)
