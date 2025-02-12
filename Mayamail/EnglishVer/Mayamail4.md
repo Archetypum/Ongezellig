@@ -4,7 +4,7 @@ sunday december 9th
 I KNEW IT, I KNEW IT FOR GOD'S SAKE
 
 
-i had been anticipating it for days and tonight she came into my room (without knocking of course) (luckily i was just simming this time) [TN: I truly don't know what she was "simulating", maybe she was making her bed creak at night]. i remember roughly what she said:
+i had been anticipating it for days and tonight she came into my room (without knocking of course) (luckily i was just simming this time). i remember roughly what she said:
 
 
 "so, next sunday is my birthday, and i couldn't choose who to invite to my party, so i just invited the whole class. at our home. i already know that everyone is coming, but not if you are yet, even though you live here naturally, but everyone is participating, so, if you would also participate i would really appreciate it"
