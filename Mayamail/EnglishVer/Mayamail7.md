@@ -7,3 +7,5 @@ pippi got in trouble for attacking santa claus at the mall. she called him an im
 coco was quite distant this week.
 
 furthermore, i found at last a personality test that suits me. the results are quite depressing so it must be reliable. i saved it so that i can later compare whether i've made any progress or not. 
+
+<img width="1308" alt="persoonlijkheidstest" src="https://github.com/user-attachments/assets/dae8c43e-8e89-4ed3-86ef-c95fe0e59beb" />
